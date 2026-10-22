@@ -36,6 +36,8 @@ The theory, melody, drum, bass, arrangement and mixing content works without FL 
 
 - [`research/report.md`](research/report.md): the full synthesized report (about 19,500 words) with source links throughout.
 - [`research/notes/`](research/notes/): the nine raw research note files the report and skills were built from.
+- [`research/genres/report.md`](research/genres/report.md): a second report (about 27,000 words) that turns roughly 150 world genres into programmable parameter recipes: rock, metal, jazz and blues, soul/funk/gospel/disco, country and folk, Latin, Caribbean, African, Asian, Middle Eastern, classical, film, game and experimental.
+- [`research/genres/notes/`](research/genres/notes/): the ten raw genre research note files behind it.
 
 Main findings from the research:
 - **Beauty works like a budget.** Use one surprise inside a predictable context (Cheung et al., 2019). Keep syncopation medium and the kick/snare anchors steady (Witek et al., 2014). Let 3–4 parts lead at once, with one part owning the sub.
